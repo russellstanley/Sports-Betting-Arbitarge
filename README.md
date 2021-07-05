@@ -1,4 +1,4 @@
-# Sports-Betting-Arbitarge
+# Sports Arbitarge Script
 - Pyhton webscrapping script to search for arbitarge opportunities
 - Chromedriver may need to be updated
  
