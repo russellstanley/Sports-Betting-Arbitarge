@@ -36,7 +36,7 @@ def printResults(odds, game, date):
     print("-----------------")
 
 #Setup browser
-browser = webdriver.Chrome(executable_path='/Users/russellstanley/Documents/Driver/chromedriver')
+browser = webdriver.Chrome(executable_path='/chromedriver')
 
 competitionid = [["NBA", 37], ["Tennis - Mens", 40], ["Tennis - Ladies", 41], ["Premier League", 1], ["English Championship", 2], ["AFL", 11], ["English League One", 62], ["National League", 99], ["German Bundesliga", 18],["Scottish Premier League", 8], ["Horse Racing", 28], ["NFL", 15], ["T20 Big Bash League", 1794]]
 
